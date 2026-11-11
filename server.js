@@ -3,4 +3,4 @@ const katze = 'miau'
 
 const mama = true
 
-const text = ''
+const text = 'fdfdgfdg'
